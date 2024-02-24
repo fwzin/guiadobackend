@@ -16,10 +16,9 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/francisco_wb/?hl=en)
 </sub>
 
-## ⚠️ Aviso importante
+## ⚠️ Aviso importante - perfil do criador original
 
 > Antes de tudo você pode me ajudar e colaborar, deu bastante trabalho fazer esse repositório e organizar para fazer seu estudo ou trabalho melhor, portanto você pode me ajudar das seguinte maneiras
--  perfil do criador original
 
 - Me siga no [Github](https://github.com/arthurspk)
 - Acesse as redes sociais do [Guia Dev Brasil](https://linktr.ee/guiadevbrasil)
